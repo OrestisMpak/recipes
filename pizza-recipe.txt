@@ -1,0 +1,9 @@
+Ingredients:
+ - A phone
+ - The delivery menu from a pizzaria
+ 
+Directions:
+  1. Call the pizzaria and tell them your address.
+  2. Tell them what type of pizza you want.
+  3. Wait until the doorbell rings.
+  4. When the delivery boy turns up pay him and enjoy your pizza.
